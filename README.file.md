@@ -34,13 +34,13 @@ Users can perform four basic arithmetic operations: Addition, Subtraction, Multi
 \#\# ![▶️][image5] How to Run the Project
 
 \#\#\# \*\*1. Clone the repository\*\*  
-\`\`\`bash  
+
 git clone \<your-repo-url\>  
 cd \<your-repo-folder\>  
 2\. Run the script  
-bash  
-Copy code  
+  
 python calculator.py  
+
 ![🧪][image6] Testing Instructions  
 Run the program.
 * Choose an arithmetic operation (1–4).  
