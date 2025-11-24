@@ -27,8 +27,7 @@ Users can perform four basic arithmetic operations: Addition, Subtraction, Multi
 |-- README.md  
 |-- statement.md
 
-yaml  
-Copy code
+
 
 \---
 
@@ -44,10 +43,10 @@ Copy code
 python calculator.py  
 ![🧪][image6] Testing Instructions  
 Run the program.
-
 * Choose an arithmetic operation (1–4).  
 * Enter two numeric inputs.  
-* Verify whether:  
+* Verify whether:
+   
 1. Correct results are shown  
 2. Division by zero returns: "Error\! Division by zero"  
 3. Invalid menu choices terminate with a proper message
