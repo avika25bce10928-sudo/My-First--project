@@ -37,6 +37,8 @@ Users can perform four basic arithmetic operations: Addition, Subtraction, Multi
 
 git clone \<your-repo-url\>  
 cd \<your-repo-folder\>  
+
+
 2\. Run the script  
   
 python calculator.py  
