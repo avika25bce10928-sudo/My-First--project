@@ -1,6 +1,6 @@
 \# ![✅][image1] \*\*statement.md\*\*
 
-\`\`\`md
+
 
 \# Project Statement – Simple Dictionary-Based Calculator
 
