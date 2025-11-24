@@ -51,11 +51,10 @@ python calculator.py
  
 🧪 Testing Instructions
 Run the program.
-
-
 Choose an arithmetic operation (1–4).
 Enter two numeric inputs.
 Verify whether :
 Correct results are shown.
 Division by zero returns: "Error! Division by zero"
  Invalid menu choices terminate with a proper message
+
